@@ -8,6 +8,6 @@ define ("USER",'laska');
 define ("PASS",'21731029');
 //имя базы данных
 define ("DB",'data_car');
-//константа твблицы 11
+//константа твблицы 112
 define ("TABLE1",'categories');
 ?>
